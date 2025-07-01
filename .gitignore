@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/voip-3cx.iml

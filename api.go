@@ -1,4 +1,4 @@
-package main
+package voip3cx
 
 import (
 	"bytes"
